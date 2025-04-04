@@ -1,8 +1,8 @@
 # README
 
-This is the source for the > npx dan-phan-nguyen package that you can run in your preffered node env.
+This is the source for the > npx danphannguyen package that you can run in your preffered node env.
 
-https://www.npmjs.com/dan-phan-nguyen
+https://www.npmjs.com/danphannguyen
 
 # Publier un package npm
 

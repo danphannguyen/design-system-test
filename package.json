@@ -1,7 +1,7 @@
 {
-  "name": "@dan-phan-nguyen/design-system-dpn",
+  "name": "@danphannguyen/design-system-dpn",
   "version": "0.0.1",
-  "description": "It's me dan-phan-nguyen",
+  "description": "It's me danphannguyen",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dan-phan-nguyen/design-system-dpn.git"
+    "url": "git+https://github.com/danphannguyen/design-system-dpn.git"
   },
   "keywords": [
     "design-system-dpn"
@@ -19,7 +19,7 @@
   "author": "Dan PHAN NGUYEN",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/dan-phan-nguyen/design-system-dpn/issues"
+    "url": "https://github.com/danphannguyen/design-system-dpn/issues"
   },
-  "homepage": "https://github.com/dan-phan-nguyen/design-system-dpn#readme"
+  "homepage": "https://github.com/danphannguyen/design-system-dpn#readme"
 }
