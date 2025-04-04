@@ -1,7 +1,7 @@
 {
-  "name": "@danphannguyen/design-system-test",
+  "name": "@dan-phan-nguyen/design-system-dpn",
   "version": "0.0.1",
-  "description": "It's me danphannguyen",
+  "description": "It's me dan-phan-nguyen",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,15 +11,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/danphannguyen/design-system-test.git"
+    "url": "git+https://github.com/dan-phan-nguyen/design-system-dpn.git"
   },
   "keywords": [
-    "design-system-test"
+    "design-system-dpn"
   ],
   "author": "Dan PHAN NGUYEN",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/danphannguyen/design-system-test/issues"
+    "url": "https://github.com/dan-phan-nguyen/design-system-dpn/issues"
   },
-  "homepage": "https://github.com/danphannguyen/design-system-test#readme"
+  "homepage": "https://github.com/dan-phan-nguyen/design-system-dpn#readme"
 }
